@@ -1,24 +1,12 @@
-## # Hi 👋, I'm Sharad Singh
+# 💫 About Me:
+MIS EXECUTIVE
 
-💼 MIS Executive
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sharad711&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sharad711&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharad711&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📊 Excel | SQL | Power BI | Dashboard Developer
+---
+[![](https://komarev.com/ghpvc/?username=sharad711&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 Currently learning Advanced Excel & Power BI
-
-🚀 Passionate about Data Analysis and Business Reporting
-
-📫 Reach me: your_email@gmail.com
-
-### 🛠 Skills
-- Microsoft Excel
-- Power BI
-- SQL Server
-- Data Analysis
-- Dashboard Creation
-
-### 📈 GitHub Stats
-(Stats badges add kar sakte hain)
-
-### ⚡ Fun Fact
-I love turning raw data into meaningful insights.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
