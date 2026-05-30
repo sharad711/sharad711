@@ -1,5 +1,5 @@
 #  About Me
-Hi, I'm Sharad Singh<br>An MIS Executive passionate about data analysis and reporting. <br>Skilled in Advanced Excel, Power BI, and Dashboard Creation. <br>I love turning complex data into clear, actionable insights and <br>continuously learning new technologies in the field of data analytics. 
+Hi, I'm Sharad Singh<br>An MIS Executive passionate about data analysis and reporting. <br>Skilled in Advanced Excel, Power BI, and Dashboard Creation. <br>I love turning complex data into clear, actionable insights and <br>continuously learning new technologies in the field of data analytics. ![logo] (https://github.com/sharad711/sharad711/blob/main/WhatsApp%20Image%202026-05-14%20at%202.08.48%20PM.jpeg)
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [sveer050794@gmailcom](mailto:sveer050794@gmailcom)
 * 🧠  I'm currently learning POWER BI, MS SQL
