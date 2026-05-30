@@ -1,16 +1,24 @@
-## Hi there 👋
+## # Hi 👋, I'm Sharad Singh
 
-<!--
-**sharad711/sharad711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 MIS Executive
 
-Here are some ideas to get you started:
+📊 Excel | SQL | Power BI | Dashboard Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Advanced Excel & Power BI
+
+🚀 Passionate about Data Analysis and Business Reporting
+
+📫 Reach me: your_email@gmail.com
+
+### 🛠 Skills
+- Microsoft Excel
+- Power BI
+- SQL Server
+- Data Analysis
+- Dashboard Creation
+
+### 📈 GitHub Stats
+(Stats badges add kar sakte hain)
+
+### ⚡ Fun Fact
+I love turning raw data into meaningful insights.
